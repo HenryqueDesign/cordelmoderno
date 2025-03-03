@@ -84,7 +84,20 @@ section.imagem {
 section.imagem > p {
     display: inline-block;
     padding: 5px;
-    background-color: rgba(0, 0, 0, 0.192)
+    background-color: rgba(0, 0, 0, 0.489)
+}
+
+section#img01 {
+
+    background-image: url('../imagem/img-01.jpg');
+    background-position: top;
+
+}
+
+section#img02 {
+
+    background-image: url('../imagem/img-02.jpg');
+    background-position: top;
 }
 
 footer {
